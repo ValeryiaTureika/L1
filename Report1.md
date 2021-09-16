@@ -7,12 +7,12 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [https://github.com/ller4ik/L1/issues/1](https://github.com/ller4ik/L1/issues/1)
+* [Программа неверно считает баланс счета после перевода денежных средств на счет VIP-клиента](https://github.com/ller4ik/L1/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* Тест план [https://docs.google.com/document/d/15mg5pc3uDrlIs_wgt_rtw7Pb0pTt5r5nT2VQGz9u5X4/edit?usp=sharing](https://docs.google.com/document/d/15mg5pc3uDrlIs_wgt_rtw7Pb0pTt5r5nT2VQGz9u5X4/edit?usp=sharing)
+* [Тест план](https://docs.google.com/document/d/15mg5pc3uDrlIs_wgt_rtw7Pb0pTt5r5nT2VQGz9u5X4/edit?usp=sharing)
 
 В качестве тестовых данных использовались данные из тест плана:
 * Пополнение счета VIP - клиента на сумму в размере 500_000_000 (пятьсот миллионов рублей)
